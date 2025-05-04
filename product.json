@@ -1,0 +1,30 @@
+[
+  {
+    "id": 4,
+    "name": "Apple iPhone 13",
+    "description": "უახლესი მოდელი, გაუმჯობესებული კამერით და წარმადობით.",
+    "price": 999.99,
+    "color": "Black"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "description": "ფლაგმანი Android ფონი დახვეწილი დიზაინით.",
+    "price": 799.99,
+    "color": "Phantom Gray"
+  },
+  {
+    "id": 3,
+    "name": "Samsung Galaxy S21",
+    "description": "ფლაგმანი Android ფონი დახვეწილი დიზაინით.",
+    "price": 799.99,
+    "color": "Phantom Gray"
+  },
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S21",
+    "description": "ფლაგმანი Android ფონი დახვეწილი დიზაინით.",
+    "price": 799.99,
+    "color": "Phantom Gray"
+  }
+]
