@@ -39,9 +39,9 @@ async function getData() {
   }
   if (arg === "DESC") {
     parsedData.sort((a, b) => {
-      return a.id - b.id;
+      return b.id - a.id;
     });
-    console.log(parsedData.reverse());
+    console.log(parsedData);
   }
 }
 
